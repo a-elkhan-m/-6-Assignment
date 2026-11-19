@@ -1,4 +1,3 @@
-/// by uran
 import java.util.Scanner;
 
 public class JavaSix {
